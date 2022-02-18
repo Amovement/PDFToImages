@@ -1,0 +1,9 @@
+github.com/phpdave11/gofpdi v1.0.11/go.mod h1:vBmVV0Do6hSBHC8uKUQ71JGW+ZGQq74llk/7bXwjDoI=
+github.com/phpdave11/gofpdi v1.0.13 h1:o61duiW8M9sMlkVXWlvP92sZJtGKENvW3VExs6dZukQ=
+github.com/phpdave11/gofpdi v1.0.13/go.mod h1:vBmVV0Do6hSBHC8uKUQ71JGW+ZGQq74llk/7bXwjDoI=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/signintech/gopdf v0.10.8 h1:9mB3+H2v5NYZ2EbfViu2bgNJmO3GjRXOcFZTJL7UVRg=
+github.com/signintech/gopdf v0.10.8/go.mod h1:PXwitUSeFWEWs+wHVjSS3cUmD4PTXB686ozqfDIQQoQ=
+gopkg.in/gographics/imagick.v2 v2.6.0 h1:ewRsUQk3QkjGumERlndbFn/kTYRjyMaPY5gxwpuAhik=
+gopkg.in/gographics/imagick.v2 v2.6.0/go.mod h1:/QVPLV/iKdNttRKthmDkeeGg+vdHurVEPc8zkU0XgBk=
