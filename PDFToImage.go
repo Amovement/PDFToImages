@@ -1,4 +1,4 @@
-package PDFToImage
+package PDFToImages
 
 import (
 	"errors"
